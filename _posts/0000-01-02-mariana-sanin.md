@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Yor text 
+Skies of blue 🌙
 Use the left arrow to go back!
